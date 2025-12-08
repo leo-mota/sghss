@@ -480,14 +480,4 @@
 
 ---
 
-## 📞 Contato
-
-**Desenvolvedor:** Sistema VidaPlus  
-**Email:** dev@vidaplus.com.br  
-**Versão:** 1.0.0  
-**Build:** 2024.12  
-**Status:** ✅ Frontend Completo | ⏳ Backend Pendente
-
----
-
 **Todos os protótipos estão prontos e funcionais!** 🎉
