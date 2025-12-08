@@ -115,7 +115,7 @@ O **SGHSS VidaPlus** é um sistema completo de gestão hospitalar desenvolvido p
 ## 🛠️ Como Usar
 - Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/SGHSS-VidaPlus.git
+git clone https://github.com/leo-mota/sghss.git
 ```
 - Instale as dependências:
 ```bash
